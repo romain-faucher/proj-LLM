@@ -1,15 +1,18 @@
 # Competence
 
 ## Language info connu
--SQL
--Python
--R
+ SQL
+ Python
+ R
 
-## logiciel etudier
--Tableau 
--Qlik
--PowerBI
--Talend 
--Dataiku
--Buisness Object
--Elasticsearch
+## logiciel connu
+ Tableau 
+ Qlik
+ PowerBI
+ Talend 
+ Dataiku
+ Buisness Object
+ Elasticsearch
+
+## language connu
+ Anglais
